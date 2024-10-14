@@ -132,7 +132,7 @@ By using the proxy server, the Next.js apps will forward any auth requests to th
 
 #### Add your local IP to your OAuth provider
 
-You can alternatively add your local IP (e.g. `192.168.x.y:$PORT`) to your OAuth provider. This may not be as reliable as your local IP may change when you change networks. Some OAuth providers may also only support a single callback URL for each app making this approach unviable for some providers (e.g. GitHub).
+You can alternatively add your local IP (e.g. `192.168.x.y:$PORT`) to your OAuth provider. This may not be as reliable as your local IP may change when you change networks. Some OAuth providers may also only sup port a single callback URL for each app making this approach unviable for some providers (e.g. GitHub).
 
 ### 4a. When it's time to add a new UI component
 
